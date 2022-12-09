@@ -14,7 +14,7 @@
   
 <h3 align='right'>
   
-[16CS-NLP-Case-Studies-with-Python](https://github.com/celik-muhammed/16CS-NLP-Case-Studies-with-Python/blob/master/README.md)
+[16CS NLP Case Studies with Python](https://github.com/celik-muhammed/16CS-NLP-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
   
