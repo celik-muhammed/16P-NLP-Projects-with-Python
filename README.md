@@ -33,8 +33,16 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="#"></a></td>
-    <td><a href="https://www.kaggle.com/competitions/feedback-prize-english-language-learning">01. Kaggle: Feedback Prize - English Language Learning</a></td>
+    <td>
+      <a href="https://www.kaggle.com/competitions/feedback-prize-english-language-learning">01. Kaggle: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Classification</a>
+      <br>
+      <a href="https://github.com/celik-muhammed/DL_RNN-NLP-ELL-FeedbackPrize-BERT-Multilabel-Multiclass/blob/master/README.md">02. Github: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Classification</a>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/competitions/feedback-prize-english-language-learning">01. Kaggle: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Classification</a>
+      <br>
+      <a href="https://github.com/celik-muhammed/DL_RNN-NLP-ELL-FeedbackPrize-BERT-Multilabel-Multiclass/blob/master/README.md">02. Github: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Classification</a>
+    </td>
   </tr>
   <tr>
     <td><a href="#"></a></td>
