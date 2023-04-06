@@ -36,7 +36,7 @@
     <td>
       <a href="https://www.kaggle.com/competitions/feedback-prize-english-language-learning">01. Kaggle: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Regression</a>
       <hr>
-      <a href="https://github.com/celik-muhammed/DL_RNN-NLP-ELL-FeedbackPrize-BERT-Multilabel-Multiclass/blob/master/README.md">02. Github: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Regression</a>
+      <a href="https://github.com/celik-muhammed/DL_RNN-NLP-ELL-FeedbackPrize-BERT-Multilabel-Multiclass/edit/master/README.md#regression-results">02. Github: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Regression</a>
     </td>
     <td>
       <a href="https://www.kaggle.com/code/clkmuhammed/ell-feedbackprize-bert-multilabel-multiclass-class/notebook">01. Kaggle: Feedback Prize - English Language Learning BERT Multilabel-Multiclass Classification</a>
