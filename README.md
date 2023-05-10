@@ -26,7 +26,7 @@
 <tbody>
   <tr>
     <td><a href="#"></a></td>
-    <td rowspan="1"><a href="https://github.com/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project">01. (Machine Learnng - Deep Learning) NLP Sentiment Analysis with RNN and BERT Project</a></td>
+    <td rowspan="1"><a href="https://github.com/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project">01. DL_ML_NLP Women's E-Commerce Clothing Reviews Sentiment Analysis</a></td>
   </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2><a href="https://huggingface.co/models"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" valign="bottom" width="25" height="25"> Hugging Face (BERT, ALBERT... etc. Models)</a></th></tr></thead>
